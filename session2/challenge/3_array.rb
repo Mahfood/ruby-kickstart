@@ -7,5 +7,10 @@
 
 class String
   def every_other_char
+    newstring = ""
+    self.split("").to_a.each_with_index do |num,index|
+      newstring += self[index] if index.even?
+    end
+    newstring
   end
 end

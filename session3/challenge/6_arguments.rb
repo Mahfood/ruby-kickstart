@@ -17,3 +17,21 @@
 # match_maker true,  true,  true, true, nil     # => [false, true]
 # match_maker true,  true,  true, 0, nil        # => [false, true]
 
+# ****** DOESNT WORK WITH ALL ********
+
+def match_maker (result, *arr)
+	new_array = []
+	if result
+		(1..arr.length).step(2) do |n|
+			arr[n] = false if arr[n] != true
+			arr[n-1] == arr[n] ? (new_array << false) : (new_array << true)
+		end
+	else
+		(1..arr.length).step(2) do |n|
+			arr[n] = false if arr[n] != true
+			arr[n-1] == arr[n] ? (new_array << true) : (new_array << false)
+		end
+	end
+	(match_maker result, new_array) if new_array.length > 1
+	new_array
+end

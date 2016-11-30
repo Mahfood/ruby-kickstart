@@ -29,4 +29,19 @@
 # shared [1,2,3], [3,2,1]            # => [{1=>[true, true], 2=>[true, true], 3=>[true, true]}, [1, 2, 3]]
 
 def shared(a, b)
+	#new_hash = Hash.new {|data,key| data[key] = 0}
+	new_hash = {}
+	new_array = []
+	result_array = []
+	a.length > b.length ? longest = a.length : longest = b.length
+	new_array = (a + b).uniq
+
+	new_array.each do |x|
+		arg1 = ((a.include? x) ? true : nil)
+		arg2 = ((b.include? x) ? true : nil)
+
+		result_array << x if arg1 == true && arg2 == true
+		new_hash[x] = [arg1 , arg2]
+	end
+	return new_hash,result_array
 end

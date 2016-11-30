@@ -8,4 +8,11 @@
 # odds_and_evens("abcdefg",false)   # => "aceg"
 
 def odds_and_evens(string, return_odds)
+	return_string = ""
+	if return_odds == true
+		string.length.times {|num| return_string += string[num] if num.odd?}
+	else
+		string.length.times {|num| return_string += string[num] if num.even?}
+	end
+	return_string
 end
