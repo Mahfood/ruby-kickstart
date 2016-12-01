@@ -15,7 +15,7 @@
 &nbsp;&nbsp;* [Exercise 3 - Array] (chap02/ex3.rb) <br />
 &nbsp;&nbsp;* [Exercise 4 - Array] (chap02/ex4.rb) <br />
 &nbsp;&nbsp;* [Exercise 5 - Array] (chap02/ex5.rb) <br />
-&nbsp;&nbsp;* [Exercise 6 - Array * NOT COMPLETE *] (chap02/ex6.rb) <br />
+&nbsp;&nbsp;* [Exercise 6 - Array] (chap02/ex6.rb) <br />
 &nbsp;&nbsp;* [Exercise 7 - Array] (chap02/ex7.rb) <br />
 &nbsp;&nbsp;* [Exercise 8 - Array] (chap02/ex8.rb) <br />
 &nbsp;&nbsp;* [Exercise 9 - Input Output Logic String] (chap02/ex9.rb) <br />
