@@ -39,7 +39,7 @@ class Fraction
 
  	 def lowest
  	 	x = gcd(@numerator,@denominator)
- 	 	"#{@numerator/x}/#{@denominator/x}"
+ 	 	Fraction.new(@numerator/x, @denominator/x)
  	 end
 
  	 def to_s
