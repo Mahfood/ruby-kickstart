@@ -21,7 +21,7 @@
 &nbsp;&nbsp;* [Exercise 9 - Input Output Logic String] (chap02/ex9.rb) <br />
 &nbsp;&nbsp;* [Exercise 10 - Classes] (chap02/ex10.rb) <br />
 &nbsp;&nbsp;* [Exercise 11 - Classes * SOLVED BUT ISSUES *] (chap02/ex11.rb) <br />
-&nbsp;&nbsp;* [Exercise 12 - Classes * NOT COMPLETE *] (chap02/ex12.rb) <br />
+&nbsp;&nbsp;* [Exercise 12 - Classes] (chap02/ex12.rb) <br />
 &nbsp;&nbsp;* [Exercise 13 - Classes Iterating Sorting] (chap02/ex13.rb) <br />
 
 * [Chapter 03] (https://github.com/JoshCheek/ruby-kickstart/tree/master/session3/challenge) <br />
