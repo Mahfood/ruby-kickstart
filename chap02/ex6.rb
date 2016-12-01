@@ -16,8 +16,10 @@
 # prime_chars? ['a', 'b', 'cd']   # => false
 
 def prime_chars? (arr)
-  puts "arr =#{arr}"
-  puts arr.join.length / 1
+  amount = arr.join.length.to_f
+  return false if amount < 2
+  2.upto Math.sqrt(amount) do |i|
+    return false if amount % i == 0
+  end
+  return true
 end
-
-puts prime_chars? ['a', 'bc']
