@@ -29,18 +29,21 @@
 &nbsp;&nbsp;* [Exercise 2 - Hashes] (chap03/ex2.rb) <br />
 &nbsp;&nbsp;* [Exercise 3 - Hashes] (chap03/ex3.rb) <br />
 &nbsp;&nbsp;* [Exercise 4 - Hashes] (chap03/ex4.rb) <br />
-&nbsp;&nbsp;* [Exercise 5 - Blocks * NOT COMPLETE *] (chap03/ex5.rb) <br />
-&nbsp;&nbsp;* [Exercise 6 - Arguments * NOT COMPLETE *] (chap03/ex6.rb) <br />
-&nbsp;&nbsp;* [Exercise 7 - Hashes * NOT COMPLETE *] (chap03/ex7.rb) <br />
-&nbsp;&nbsp;* [Exercise 8 - Blocks * NOT COMPLETE *] (chap03/ex8.rb) <br />
+&nbsp;&nbsp;* [Exercise 5 - Blocks] (chap03/ex5.rb) <br />
+&nbsp;&nbsp;* [Exercise 6 - Arguments] (chap03/ex6.rb) <br />
+&nbsp;&nbsp;* [Exercise 7 - Hashes] (chap03/ex7.rb) <br />
+&nbsp;&nbsp;* [Exercise 8 - Blocks] (chap03/ex8.rb) <br />
 &nbsp;&nbsp;* [Exercise 9 - Hashes] (chap03/ex9.rb) <br />
-&nbsp;&nbsp;* [Exercise 10 - Hashes * NOT COMPLETE *] (chap03/ex10.rb) <br />
-&nbsp;&nbsp;* [Exercise 11 - Blocks or Procs * NOT COMPLETE *] (chap03/ex11.rb) <br />
-&nbsp;&nbsp;* [Exercise 12 - Blocks * NOT COMPLETE *] (chap03/ex12.rb) <br />
-&nbsp;&nbsp;* [Exercise 13 - Procs * NOT COMPLETE *] (chap03/ex13.rb) <br />
-&nbsp;&nbsp;* [Exercise 14 - Varibles Arguments and Hashes * NOT COMPLETE *] (chap03/ex14.rb) <br />
-&nbsp;&nbsp;* [Exercise 15 - Hashes * NOT COMPLETE *] (chap03/ex15.rb) <br />
-&nbsp;&nbsp;* [Exercise 16 - Hashes * NOT COMPLETE *] (chap03/ex16.rb) <br />
-&nbsp;&nbsp;* [Exercise 17 - Hashes * NOT COMPLETE *] (chap03/ex17.rb) <br />
+&nbsp;&nbsp;* [Exercise 10 - Hashes] (chap03/ex10.rb) <br />
+&nbsp;&nbsp;* [Exercise 11 - Blocks or Procs] (chap03/ex11.rb) <br />
+&nbsp;&nbsp;* [Exercise 12 - Blocks] (chap03/ex12.rb) <br />
+&nbsp;&nbsp;* [Exercise 13 - Procs] (chap03/ex13.rb) <br />
+&nbsp;&nbsp;* [Exercise 14 - Varibles Arguments and Hashes] (chap03/ex14.rb) <br />
+&nbsp;&nbsp;* [Exercise 15 - Hashes] (chap03/ex15.rb) <br />
+&nbsp;&nbsp;* [Exercise 16 - Hashes] (chap03/ex16.rb) <br />
+&nbsp;&nbsp;* [Exercise 17 - Hashes] (chap03/ex17.rb) <br />
+
+The below exercises are from "Learn Ruby The Hard Way" becuase I understoon those more than the Josh Cheek examples
+
 &nbsp;&nbsp;* [Exercise 39 - Dictionaries, Oh Lovely Dictionaries - LRTHW] (chap03/ex39.rb) <br />
-&nbsp;&nbsp;* [Exercise 17 - Modules, Classes, And Objects - LRTHW] (chap03/ex40.rb) <br />
+&nbsp;&nbsp;* [Exercise 40 - Modules, Classes, And Objects - LRTHW] (chap03/ex40.rb) <br />
