@@ -15,6 +15,7 @@
 # head = {:data => 6, :next => head}
 # print_list head                    # >> "6\n5\n4\n3\n2\n1\n"
 
+# My Solution
 def print_list (hash)
   returnstr = ""
   (hash[:data]).downto(1) do |x|
@@ -23,6 +24,10 @@ def print_list (hash)
   returnstr
 end
 
-
-head = {:data => 1, :next => head}
-p print_list head
+# Suggested solution
+def print_list(list)
+  while list
+    puts list[:data]
+    list = list[:next]
+  end
+end

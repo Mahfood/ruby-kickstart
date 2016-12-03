@@ -29,6 +29,17 @@
 #   end
 # end
 
+# My solution
+def array_init(val=5, &block)
+  if block != nil
+    Proc.new {|num| num * 100}
+  end
 
-def array_init
+  Array.new(val,&block)
+end
+
+# Suggested Solution
+def array_init(size=5, &block)
+  block ||= Proc.new { |i| (100 * i).to_s }
+  Array.new(size, &block)
 end
