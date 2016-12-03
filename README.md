@@ -42,3 +42,5 @@
 &nbsp;&nbsp;* [Exercise 15 - Hashes * NOT COMPLETE *] (chap03/ex15.rb) <br />
 &nbsp;&nbsp;* [Exercise 16 - Hashes * NOT COMPLETE *] (chap03/ex16.rb) <br />
 &nbsp;&nbsp;* [Exercise 17 - Hashes * NOT COMPLETE *] (chap03/ex17.rb) <br />
+&nbsp;&nbsp;* [Exercise 39 - Dictionaries, Oh Lovely Dictionaries - LRTHW] (chap03/ex39.rb) <br />
+&nbsp;&nbsp;* [Exercise 17 - Modules, Classes, And Objects - LRTHW] (chap03/ex40.rb) <br />
